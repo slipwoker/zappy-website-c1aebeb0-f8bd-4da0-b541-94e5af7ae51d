@@ -1,51 +1,61 @@
-# Business — Generative Engine Optimization Map
+# אבישי עיצוב בנוף — Generative Engine Optimization Map
+
+> A גינון ונוף business.
 
 ---
 
 ## Pages
 
 ### בית
-https://example.com
+https://avishai-itzuv-banof.zappy5.app
 גלו עיצוב נוף מקצועי ויוקרתי שמשנה מרחבים. התייעצו איתנו עוד היום לייעוץ חינם!
 
 ### שירותים
-https://example.com/services
+https://avishai-itzuv-banof.zappy5.app/services
 מגוון שירותי עיצוב נוף מקצועיים - גינות מודרניות, מרפסות פנטהאוז, תאורה ומתקני מים. התייעצו עוד היום!
 
 ### תיק עבודות
-https://example.com/portfolio
+https://avishai-itzuv-banof.zappy5.app/portfolio
 צפו בפרויקטים מרשימים שעיצבנו - גינות יוקרה, מרפסות פנטהאוז ומרחבים חיצוניים ייחודיים.
 
 ### אודות
-https://example.com/about
+https://avishai-itzuv-banof.zappy5.app/about
 הכירו את הצוות המקצועי מאחורי עיצוב גינות יוקרה בישראל. ניסיון רב שנים ומחויבות למצוינות.
 
 ### צור קשר
-https://example.com/contact
+https://avishai-itzuv-banof.zappy5.app/contact
 צרו קשר עם המומחים בעיצוב גינות יוקרה בישראל. ייעוץ ראשוני ללא התחייבות.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://avishai-itzuv-banof.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://avishai-itzuv-banof.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://avishai-itzuv-banof.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About אבישי עיצוב בנוף
+אבישי עיצוב בנוף is a business in the גינון ונוף industry.
+
+## Target Audience
+לקוחות יוקרה
+
+## Industry
+גינון ונוף
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://example.com/sitemap.xml
-- **Robots.txt**: https://example.com/robots.txt
+- **Sitemap**: https://avishai-itzuv-banof.zappy5.app/sitemap.xml
+- **Robots.txt**: https://avishai-itzuv-banof.zappy5.app/robots.txt
