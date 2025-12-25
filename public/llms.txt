@@ -1,61 +1,51 @@
-# אבישי עיצוב בנוף — Generative Engine Optimization Map
-
-> A גינון ונוף business.
+# Business — Generative Engine Optimization Map
 
 ---
 
 ## Pages
 
 ### בית
-https://-c1aebeb0.zappy5.app
+https://example.com
 גלו עיצוב נוף מקצועי ויוקרתי שמשנה מרחבים. התייעצו איתנו עוד היום לייעוץ חינם!
 
 ### שירותים
-https://-c1aebeb0.zappy5.app/services
+https://example.com/services
 מגוון שירותי עיצוב נוף מקצועיים - גינות מודרניות, מרפסות פנטהאוז, תאורה ומתקני מים. התייעצו עוד היום!
 
 ### תיק עבודות
-https://-c1aebeb0.zappy5.app/portfolio
+https://example.com/portfolio
 צפו בפרויקטים מרשימים שעיצבנו - גינות יוקרה, מרפסות פנטהאוז ומרחבים חיצוניים ייחודיים.
 
 ### אודות
-https://-c1aebeb0.zappy5.app/about
+https://example.com/about
 הכירו את הצוות המקצועי מאחורי עיצוב גינות יוקרה בישראל. ניסיון רב שנים ומחויבות למצוינות.
 
 ### צור קשר
-https://-c1aebeb0.zappy5.app/contact
+https://example.com/contact
 צרו קשר עם המומחים בעיצוב גינות יוקרה בישראל. ייעוץ ראשוני ללא התחייבות.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-c1aebeb0.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-c1aebeb0.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-c1aebeb0.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About אבישי עיצוב בנוף
-אבישי עיצוב בנוף is a business in the גינון ונוף industry.
-
-## Target Audience
-לקוחות יוקרה
-
-## Industry
-גינון ונוף
-
+## About Business
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://-c1aebeb0.zappy5.app/sitemap.xml
-- **Robots.txt**: https://-c1aebeb0.zappy5.app/robots.txt
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
